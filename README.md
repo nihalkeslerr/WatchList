@@ -1,6 +1,11 @@
+## Demo
+
+You can view the demo of the application [Here](https://64737be2983777540d41cfec--nihalkesler-watchlist.netlify.app/) 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
