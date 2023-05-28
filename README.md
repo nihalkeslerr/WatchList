@@ -1,6 +1,6 @@
 ## Demo
 
-You can view the demo of the application [Here](https://64737be2983777540d41cfec--nihalkesler-watchlist.netlify.app/) 
+You can view the DEMO of the application [Here](https://64737be2983777540d41cfec--nihalkesler-watchlist.netlify.app/) 
 
 # Getting Started with Create React App
 
